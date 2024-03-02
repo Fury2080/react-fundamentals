@@ -26,7 +26,9 @@ function LoginForm() {
 
 function Button() {
   return (
-    <button className="bg-blue-500 w-fit px-6 py-2 rounded-xl ">Login</button>
+    <button className="bg-blue-500 w-fit px-6 py-2 rounded-xl hover:bg-blue-600 active:bg-blue-700">
+      Login
+    </button>
   );
 }
 
