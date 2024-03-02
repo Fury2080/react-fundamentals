@@ -1,0 +1,4 @@
+-learn react components
+-learn use state fn
+-learn to creae multiple pages
+-pass data to react component
