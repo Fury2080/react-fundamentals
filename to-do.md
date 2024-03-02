@@ -1,4 +1,5 @@
--learn react components
--learn use state fn
--learn to creae multiple pages
--pass data to react component
+-[x] learn react components
+-[x] advanced tailwind responsive layouts
+-[ ] learn use state fn
+-[ ] learn to creae multiple pages
+-[ ] pass data to react component
