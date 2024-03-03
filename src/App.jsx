@@ -4,6 +4,16 @@ function App() {
       <h1 className="text-5xl lg:text-8xl text-center">React basics</h1>
       <p className="block">Back again shit world</p>
       <LoginForm />
+      <p>
+        Didn't have a account
+        <a
+          href="https://imagination-of-my-brain.vercel.app/"
+          title="rederected to a new page"
+          target="_blank"
+        >
+        ? Sign in
+        </a>
+      </p>
     </div>
   );
 }
